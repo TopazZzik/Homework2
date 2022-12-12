@@ -14,4 +14,3 @@ public class TaskOne {
         return reversed.equals(replaced);
     }
 }
-
